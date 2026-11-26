@@ -138,7 +138,7 @@ The project is divided into seven phases:
 ```text
 diabetes-prediction-system/
 │
-├── project-2.ipynb
+├── diabetes-prediction-system-sonjor-ahmed.ipynb
 │
 ├── diabetes_binary_health_indicators_BRFSS2015(1).csv
 │
